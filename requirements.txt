@@ -1,0 +1,8 @@
+streamlit
+pymongo
+pandas
+python-dotenv
+langchain
+langchain-groq
+groq
+bson
